@@ -1,0 +1,19 @@
+{
+  "name": "lista-mascotas",
+  "version": "1.0.0",
+  "description": "Prueba de sitio de Lista de Mascotas creada con Bootstrap 5 - jquery - Ajax - MySql - PHP - JS - CSS  Tiene la posibilidad de :  Agregar, editar, borrar filas de la lista de mascotas",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugovica/lista-mascotas.git"
+  },
+  "author": "hugo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugovica/lista-mascotas/issues"
+  },
+  "homepage": "https://github.com/hugovica/lista-mascotas#readme"
+}
